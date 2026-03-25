@@ -195,6 +195,3 @@ app.run(debug=False, port=8051)
 ```bash
 mkdir outputs
 ```
-
-**Aryan**
-Hackathon Project — Signal Demodulation Visual Lab
